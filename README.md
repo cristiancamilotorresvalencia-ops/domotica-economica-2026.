@@ -1,0 +1,1 @@
+# domotica-economica-2026.
