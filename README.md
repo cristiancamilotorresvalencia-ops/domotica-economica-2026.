@@ -9,6 +9,10 @@ control de carpintería robótica
 
 
 control de apertura y cierre de puertas (portones, estores)
+
+<img width="1024" height="1024" alt="2377" src="https://github.com/user-attachments/assets/97085b8b-a159-4a83-bbd4-d020936229be" />
+
+
 control de bombas de esgoto
 sistema de purificación de agua para piscinas
 Proyecto: Domótica Económica y Accesible
