@@ -30,4 +30,25 @@ sistema de purificación de agua para piscinas
 
 Proyecto: Domótica Económica y Accesible
 
-![2373](https://github.com/user-attachments/assets/4cdcbfd2-2d91-4c2d-8b38-5e99b44a31d6)
+Objetivo
+Lograr soluciones de automatización de bajo costo que cualquier persona pueda replicar, integrando el aprendizaje de lectura de diagramas eléctricos y electrónica práctica.
+
+Componentes Principales (BOM)
+Electrónica y Diagramas
+Como parte de mi proceso de aprendizaje, este proyecto incluye:
+
+• Esquemas detallados de conexiones.
+
+• Guías para la lectura de circuitos de domótica.
+
+• Uso de optoacopladores para seguridad.
+
+Seguridad
+IMPORTANTE: Este proyecto involucra manejo de voltajes de red (110V/220V). Siempre se debe trabajar sin conexión eléctrica y bajo supervisión si no se tiene experiencia previa.
+
+Próximos Pasos
+• Configuración de servidor local (Home Assistant/MQTT).
+
+• Diseño de PCB económica para interruptores.
+
+• Integración con prototipos de robótica de servicio.
