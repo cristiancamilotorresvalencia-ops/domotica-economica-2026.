@@ -1,5 +1,8 @@
 # domotica-economica-2026.
-reformas eléctricas transición a luces inteligentes
+reformas eléctricas transición a luces inteligentesjq
+<img width="1024" height="1024" alt="2375" src="https://github.com/user-attachments/assets/df9654dd-efcf-4f29-825a-d745bc18086f" />
+
+
 control de carpintería robótica
 control de apertura y cierre de puertas (portones, estores)
 control de bombas de esgoto
