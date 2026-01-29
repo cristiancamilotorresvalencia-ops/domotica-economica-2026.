@@ -20,7 +20,8 @@ control de apertura y cierre de puertas (portones, estores)
 
 control de bombas de esgoto
 
-![2371](https://github.com/user-attachments/assets/befe4b36-0d2e-49b6-91d8-2a5548780a66)
+<img width="1408" height="736" alt="2370" src="https://github.com/user-attachments/assets/45fa8554-cf56-4390-a4e4-12ef764547a7" />
+
 
 
 sistema de purificación de agua para piscinas
