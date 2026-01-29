@@ -4,6 +4,10 @@ reformas eléctricas transición a luces inteligentesjq
 
 
 control de carpintería robótica
+
+<img width="1024" height="1024" alt="2376" src="https://github.com/user-attachments/assets/0d983749-d29e-4577-86e4-021f87ea9de5" />
+
+
 control de apertura y cierre de puertas (portones, estores)
 control de bombas de esgoto
 sistema de purificación de agua para piscinas
