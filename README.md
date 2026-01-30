@@ -1,5 +1,8 @@
 # domotica-economica-2026.
 
+<img width="1024" height="1024" alt="2440" src="https://github.com/user-attachments/assets/c5b5c5c6-e3c5-42d0-9bc5-6edb86900829" />
+
+
 
 ![2373](https://github.com/user-attachments/assets/9b086fb1-4fef-493e-82b7-92154af68192)
 
